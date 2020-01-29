@@ -1,0 +1,2 @@
+mvn build command
+mvn archetype:generate -DgroupId=Hashavshevet -DartifactId=Websitetest -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
