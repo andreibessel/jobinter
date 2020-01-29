@@ -12,7 +12,7 @@ public class connector {
 	private static Connection connect = null;
     private static final String url = "jdbc:mysql://localhost";
     private static final String user = "andrey";
-    private static final String password = "andreyid";
+    private static final String password = "Andrey13";
     private static Statement statement = null;
     private static ResultSet resultSet = null;
     private static PreparedStatement preparedStatement = null;

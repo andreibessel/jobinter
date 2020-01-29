@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="587" started-at="2020-01-29T15:01:59 IST" finished-at="2020-01-29T15:01:59 IST">
+  <suite name="Suite" duration-ms="618" started-at="2020-01-30T00:59:42 IST" finished-at="2020-01-30T00:59:42 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="587" started-at="2020-01-29T15:01:59 IST" finished-at="2020-01-29T15:01:59 IST">
-      <class name="Tests.connectionTest">
-        <test-method status="PASS" signature="ConnectiontoMsql()[pri:0, instance:Tests.connectionTest@5bc79255]" name="ConnectiontoMsql" duration-ms="545" started-at="2020-01-29T15:01:59 IST" finished-at="2020-01-29T15:01:59 IST">
+    <test name="Test" duration-ms="618" started-at="2020-01-30T00:59:42 IST" finished-at="2020-01-30T00:59:42 IST">
+      <class name="Tests.connectionTest2">
+        <test-method status="PASS" signature="ConnectiontoMsql()[pri:0, instance:Tests.connectionTest2@47ef968d]" name="ConnectiontoMsql" duration-ms="560" started-at="2020-01-30T00:59:42 IST" finished-at="2020-01-30T00:59:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConnectiontoMsql -->
-      </class> <!-- Tests.connectionTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- Tests.connectionTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
